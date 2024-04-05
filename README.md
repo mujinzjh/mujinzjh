@@ -16,6 +16,14 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
+
+   <!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="https://study.zjhcyhx.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=mujinzjh&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+  
 </div>
 
 ### Hi there 👋
