@@ -28,6 +28,7 @@
 
 ### Hi there 👋
 
+Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/mujinzjh/count.svg) visitor, Thank You!🎉🎉
 <!--
 **mujinzjh/mujinzjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
